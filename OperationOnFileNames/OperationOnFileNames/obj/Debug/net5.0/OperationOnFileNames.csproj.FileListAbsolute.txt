@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\bin\Debug\net5.0\OperationOnFileNames.exe
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\bin\Debug\net5.0\OperationOnFileNames.deps.json
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\bin\Debug\net5.0\OperationOnFileNames.runtimeconfig.json
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\bin\Debug\net5.0\OperationOnFileNames.runtimeconfig.dev.json
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\bin\Debug\net5.0\OperationOnFileNames.dll
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\bin\Debug\net5.0\ref\OperationOnFileNames.dll
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\bin\Debug\net5.0\OperationOnFileNames.pdb
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.AssemblyInfo.cs
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.dll
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\ref\OperationOnFileNames.dll
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.pdb
+C:\Users\asus\Documents\C#\tasks\OperationOnFileNames\OperationOnFileNames\obj\Debug\net5.0\OperationOnFileNames.genruntimeconfig.cache
